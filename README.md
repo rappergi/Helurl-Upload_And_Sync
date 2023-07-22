@@ -1,4 +1,4 @@
-#[ HELUP V1.0.0 ]
+# [ HELUP V1.0.0 ]
 
 ***Made by NghiaNL***
 
