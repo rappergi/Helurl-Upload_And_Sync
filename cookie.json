@@ -1,0 +1,41 @@
+[
+  {
+    "domain": "helurl.com",
+    "expirationDate": 1690013435.620582,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "helurlcom_free_file_upload_and_sharing_session",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "eyJpdiI6IjMzMzJWaXJyMkpRekRid2IwNHVvdlE9PSIsInZhbHVlIjoiMGpFUkVxVEdXbUtkckdyNXRNTFh0andLM0wrNjczL28rTVI1MWgxZnh4ZFd3OGVVaU1LbTNlUzBZUWxhRENydFRRV0V4MkYwNWtWTXZFMGJqTGRocFFOZkZmaFFlb0ROSm91eVV2T3M4dnpOWU1XZmR0b1YyQ3Z1aW8wQWJkVDMiLCJtYWMiOiJmNTFiNWQ4YjQyZjc3NDhjNDExNTJiNTE4NDk5M2I2NDhhZjZmNTQwZjRkYTNjZjgwOGFhYTQzOTM5OTMyZDJkIiwidGFnIjoiIn0%3D"
+  },
+  {
+    "domain": "helurl.com",
+    "expirationDate": 1724533418.519539,
+    "hostOnly": true,
+    "httpOnly": true,
+    "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "eyJpdiI6IkJVUTc2VnRmaC8zZzJxSTNuZ3hqZnc9PSIsInZhbHVlIjoidFM1ZUxsNFhLVzF1djI0bm8venlFSVM1bG55cFk3UlpsMmVjL3ZpUW9wWW9Fby96TzN1TGduanZJdXI1U1lqNHJsdFV3RVU1VTYxZjZZMzBCRFZ0ank1RVdyWWYvTHFXeFdTRFFIdFA3ckFnTzdXUS9aR3hTWVh3SkxHejhxVS8wd0hlVUJIQm5aOXY5bXNKUTRIL0w4ZTdOZEUvV3lwamU4Tjl0dEsraTV4VDB5WkdoMzBuQXpxRXZSOVFlT0RJbDdVK1F5VVhwM3VzN3VVRG9BL0dRcWVpblp1V056NDBDQUFnemkwT0RwRT0iLCJtYWMiOiI2NTFiNDAxMDkzNWE4OWM2NjJhOTMxZGFlMGZjYjBkODgzZmVjNzNlYjZkMDc4ZGNmYzU2YjZjYzE4YjIzNGU2IiwidGFnIjoiIn0%3D"
+  },
+  {
+    "domain": "helurl.com",
+    "expirationDate": 1690013435.620533,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "XSRF-TOKEN",
+    "path": "/",
+    "sameSite": "lax",
+    "secure": false,
+    "session": false,
+    "storeId": null,
+    "value": "eyJpdiI6IjJyNlgvaHMvbVA5bjAwL0pCdVlXWlE9PSIsInZhbHVlIjoieGxRQjFWbk5oQ1JtZ1BhOVRrKzNqUFVOSm83dXFLVWhWYi9qZWUvbmxWbXN3cC8va2d6U1lYamNPTkpzU1ZOMXh0bzBJTE5pV0JmYllvY041MVBmcjdmclBDajJ0ZEhSUUlMdmJDNFVuUnkyb0p4clozdS8xeFREWTVYNjFDdE0iLCJtYWMiOiJmOTYwYTIyOWU2Y2E1M2U3YWU1ODUxZDZkNmI5NWU3NmNhMzFmYjhiZjU2MzY5ZjViZTdmMGYxNTI5ZDY5ODM3IiwidGFnIjoiIn0%3D"
+  }
+]
