@@ -17,8 +17,8 @@
 ```helup config```
 1. Truy cập vào trang https://helurl.com và đăng nhập sau đó sử dụng Cookie Editor export cookie và dán vào file cookie.json lưu lại và thoát
 2. Lấy api token [**tại đây**](https://helurl.com/account-settings) sau đó dán vào cmd và nhấn enter
-3. Sử dụng câu lệnh để sau để copy file hoặc folder lên Helurl
-```helup copy <source> <target>```
+3. Sử dụng câu lệnh để sau để copy file hoặc folder lên Helurl\n
+```helup copy <source> <target>```\n
 EX: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" ```
 Các bạn có thể chỉnh số thread upload (default 4) bằng câu lệnh sau
 ```helup copy <source> <target> -thread=<Số thread>```
