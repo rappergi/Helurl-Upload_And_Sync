@@ -6,10 +6,10 @@
 - Stream phim thì không cần phải biết đợi chờ
 - Tool cho phép upload mọi loại tệp không cần đổi đuôi file
 - Tool hỗ trợ upload với tốc độ siêu nhanh và đa luồng, có thể tuỳ chỉnh.
-- Tool tương thích trên mọi nền tảng, và có thể chuyển từ cloud này sang cloud khác với tốc độ bàn thờ (Mình sẽ có video hướng dẫn sau nếu được mọi người ủng hộ)
+- Tool tương thích trên mọi nền tảng, và có thể chuyển từ cloud này sang cloud khác với tốc độ bàn thờ (Em sẽ có video hướng dẫn sau sync từ bằng google colab hoặc vps với tốc độ bét tè lè nhè sau)
 
 
-***Nếu thấy hay thì hãy ủng hộ cho mình một sao để mình có động lực làm những version sau nhé***
+***Nếu thấy hay thì các bác hãy ủng hộ cho em một sao để em có động lực tối ưu hoá và ra thêm những thứ hay ho ở những version sau nhé***
 ## Chuẩn bị
 
 Để có thể sử dụng mọi người cần phải có những thứ sau:
