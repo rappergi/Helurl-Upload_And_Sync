@@ -45,7 +45,7 @@ ex: helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
 > Vd: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=8```
 
 ***Video dành cho mấy bác lười đọc :v***
-{@embed: https://www.youtube.com/watch?v=wUMCu4r8wIA}
+[![Watch the video](https://img.youtube.com/vi/wUMCu4r8wIA/hqdefault.jpg)](https://www.youtube.com/embed/wUMCu4r8wIA)
 
 ## Một số chú ý
 
