@@ -4,8 +4,9 @@
 - Dung lương lưu trữ 50 TB nhưng chưa ai kiểm chứng :v
 - Download và upload với tốc độ bàn thờ
 - Stream phim thì không cần phải biết đợi chờ
-- Tool hỗ trợ upload mọi loại tệp (Dung lượng file < 10Gb)
-- Tool hỗ trợ trên mọi nền tảng, và có thể chuyển từ cloud này sang cloud khác với tốc độ bàn thờ (Mình sẽ có video hướng dẫn sau nếu được mọi người ủng hộ)
+- Tool cho phép upload mọi loại tệp không cần đổi đuôi file
+- Tool hỗ trợ upload với tốc độ siêu nhanh và đa luồng, có thể tuỳ chỉnh.
+- Tool tương thích trên mọi nền tảng, và có thể chuyển từ cloud này sang cloud khác với tốc độ bàn thờ (Mình sẽ có video hướng dẫn sau nếu được mọi người ủng hộ)
 
 
 ***Nếu thấy hay thì hãy ủng hộ cho mình một sao để mình có động lực làm những version sau nhé***
