@@ -25,7 +25,7 @@
 Bước 1: Mở cmd, chạy câu lệnh sau
 
 ```sh
-helurl config
+helup config
 ```
 
 B2: Truy cập vào trang https://helurl.com và đăng nhập sau đó sử dụng Cookie Editor export cookie và dán vào file cookie.json lưu lại và thoát
