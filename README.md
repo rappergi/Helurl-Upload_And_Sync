@@ -19,11 +19,12 @@
 2. Lấy api token [**tại đây**](https://helurl.com/account-settings) sau đó dán vào cmd và nhấn enter
 3. Sử dụng câu lệnh để sau để copy file hoặc folder lên Helurl
 ```helup copy <source> <target>```
-Ví dụ: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" ```
+EX: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" ```
 Các bạn có thể chỉnh số thread upload (default 4) bằng câu lệnh sau
 ```helup copy <source> <target> -thread=<Số thread>```
-Ví dụ: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=5```
-**--- TẬN HƯỞNG ---**
+EX: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=5```
+
+
 ***MỘT SỐ CHÚ Ý***
 1. File .exe có khác gì file .py không ?
 - Chả khác gì chỉ là file chấm py có thể chạy được trên nhiều hệ điều hành hơn (Mình sẽ có video hướng dẫn sau nhé)
