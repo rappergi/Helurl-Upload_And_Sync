@@ -44,6 +44,9 @@ ex: helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
 >
 > Vd: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=8```
 
+***Video dành cho mấy bác lười đọc :v***
+{@embed: https://www.youtube.com/watch?v=wUMCu4r8wIA}
+
 ## Một số chú ý
 
 1. File .exe có khác gì file .py không ?
