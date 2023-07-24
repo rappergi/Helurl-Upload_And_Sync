@@ -24,6 +24,8 @@ Do sản phẩm đang trong quá trình hoàn thiện nên chắc chắn không 
 
 ## Hướng dẫn sửa dụng
 
+***WINDOWS***
+
 Bước 1: Mở cmd, chạy câu lệnh sau
 
 ```sh
@@ -48,6 +50,36 @@ ex: helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
 ***Video dành cho mấy bác lười đọc :v***
 
 [![Watch the video](https://img.youtube.com/vi/wUMCu4r8wIA/hqdefault.jpg)](https://www.youtube.com/embed/wUMCu4r8wIA)
+
+***UBUNTU***
+
+B1: Tải file helup về máy bằng lệnh
+```sh
+wget https://github.com/nguyenlamnghia/Helup/releases/download/v1.0.0/helup.py
+```
+
+B2: Config helup bằng lệnh
+```sh
+python3 helup.py config
+```
+Nhấn enter, nhập token. Và sử dụng câu lệnh
+```sh
+sudo nano cookie.json
+```
+Để nhập cookie helurl vào, sau đó nhấp ctrl + o và nhấn enter để lưu, nhấn ctrl + x để thoát
+
+B4: Chạy thôi
+
+
+```sh
+python3 helup.py copy <source> <target>
+ex: python3 helup.py copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
+```
+
+
+> Note: `-thread=số luồng` để chỉnh số file upload lên cùng một lúc tối đa
+>
+> Vd: ```python3 helup.py copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=8```
 
 ## Một số chú ý
 
