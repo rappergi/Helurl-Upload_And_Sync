@@ -49,6 +49,7 @@ ex: helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
 - Đúng có thể upload tất cả các file nhưng không được quá 10GB, do server nó cho có mỗi thế :v
 3. Helurl có phải là nơi tốt và uy tín để lưu dữ liệu không?
 - Hoàn toàn là nên đối với những bộ phim 🐖 còn dữ liệu quan trọng thì ae cứ chọn các nguồn uy tín như onedrive, gdrive. Chứ bản thân mình ngồi code cái này mà web sập lên sập xuống cay lắm :v. Cơ mà stream phim thì mượt như sunsilk
+4. Nếu đường dẫn chứa dấu cách thì nhớ thêm dấu "" để không bị lỗi nhé
 
 
 ## Liên hệ
