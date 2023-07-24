@@ -6,7 +6,7 @@
 - Stream phim thì không cần phải biết đợi chờ
 - Tool hỗ trợ upload mọi loại tệp (Dung lượng file < 10Gb)
 - Tool hỗ trợ trên mọi nền tảng, và có thể chuyển từ cloud này sang cloud khác với tốc độ bàn thờ (Mình sẽ có video hướng dẫn sau nếu được mọi người ủng hộ)
-
+***Ủng hộ cho mình một sao để mình có động lực làm những version sau nhé***
 ## Chuẩn bị
 
 Để có thể sử dụng mọi người cần phải có những thứ sau:
