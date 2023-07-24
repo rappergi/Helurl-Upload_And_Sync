@@ -58,6 +58,8 @@ ex: helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
 3. Helurl có phải là nơi tốt và uy tín để lưu dữ liệu không?
 - Hoàn toàn là nên đối với những bộ phim 🐖 còn dữ liệu quan trọng thì ae cứ chọn các nguồn uy tín như onedrive, gdrive. Chứ bản thân mình ngồi code cái này mà web sập lên sập xuống cay lắm :v. Cơ mà stream phim thì mượt như sunsilk
 4. Nếu đường dẫn chứa dấu cách thì nhớ thêm dấu "" để không bị lỗi nhé
+5. Đường dẫn phải có dạng "D:/xxx/yyy/zzz" hoặc "xxx/yyy/zzz" (Với file thì tương tự nhưng thêm tên file vào sau vd D:/xxx/yyy/zzz/ttt.zip)
+6. Nếu file zip xảy ra lỗi các bác có thể thử cài đặt python 3.x và chạy file helup.py nhé 
 
 
 ## Liên hệ
