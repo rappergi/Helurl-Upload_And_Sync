@@ -38,7 +38,8 @@ ex: helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh"
 ``` 
 
 > Note: `-thread=số luồng` để chỉnh số file upload lên cùng một lúc tối đa
-Vd: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=8```
+>
+> Vd: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=8```
 
 ## Một số chú ý
 
@@ -53,6 +54,7 @@ Vd: ```helup copy "D:\Data\Ảnh người yêu cũ" "backup/anh" -thread=8```
 ## Liên hệ
 
 Email: lamnghia.hust@gmail.com
+
 Facebook (clone): 
 
 ## License
