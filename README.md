@@ -19,7 +19,7 @@
 - [Helup.py](https://github.com/nguyenlamnghia/Helup/releases/download/v1.0.0/helup.py) - Yêu cầu phải có python 3.x để chạy, nếu bạn không có python ư, hãy tải cái bên dưới
 - [Helup.zip](https://github.com/nguyenlamnghia/Helup/releases/download/v1.0.0/helup.zip) - Đã nén lại và chỉ cần tải xuống, giải nén và chạy
 
-**Tất cả các file đều 100% không có virut các bạn có thể tải check tại [**đây**](https://www.virustotal.com/gui/file/22d46411ce864b5d5e6cd24ba4cbc2d8418e0bd29bdf43b90cef22e56b78ed2d?nocache=1)**
+**Tất cả các file đều 100% không có virut các bạn có thể tải check tại [**đây**](https://www.virustotal.com/gui/file-analysis/MWYyOTQyODkxZjgwZjBiM2QxMDI4ZTBlY2JhOTM4ODU6MTY5MDE5MjAxOQ==)**
 
 ## Hướng dẫn sửa dụng
 
